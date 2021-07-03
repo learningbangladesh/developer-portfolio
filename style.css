@@ -13,6 +13,7 @@ font-size: 50px;
 
 section{
     display: flex;
+    margin-bottom: 100px;
     padding: 200px 0px 0px 200px;
 }
 
@@ -38,4 +39,10 @@ width: 60%;
 .top-banner{
 background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
